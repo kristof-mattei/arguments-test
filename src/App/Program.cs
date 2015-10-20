@@ -12,7 +12,6 @@
             }
 
             Console.WriteLine("All done");
-            Console.ReadLine();
         }
     }
 }
